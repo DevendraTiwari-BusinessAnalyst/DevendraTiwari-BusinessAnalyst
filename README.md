@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Devendra Tiwari
 
-<!--
-**DevendraTiwari-BusinessAnalyst/DevendraTiwari-BusinessAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- 🏥 MIS Executive at Rama Hospital
+- 🎓 Pursuing MBA in Pharma & Healthcare Management
+- 📊 Aspiring Data Analyst with a Healthcare Operations background
+- 📈 Passionate about turning data into meaningful insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Microsoft Excel (Advanced)
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
+- MIS Reporting
+
+---
+
+## 🚀 Currently Working On
+- Power BI Portfolio Projects
+- Healthcare Analytics
+- Dashboard Development
+- Business Intelligence
+
+---
+
+## 🎯 Career Objective
+Seeking opportunities in Data Analytics, Business Analytics, MIS, and Healthcare Operations where I can use data to support better business decisions.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/devendra-tiwari-business-analyst
+- Email: devjionetiwari@gmail.com
+
+⭐ Thanks for visiting my profile!
